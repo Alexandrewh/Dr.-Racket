@@ -1,0 +1,4 @@
+Let x be a node and L be a list of nodes in ascending order of their values. A node is represented as a pair (name value), i.e., it is itself a list. Then a list of nodes is represented by a list of lists. Write a Lisp program to insert node x into L in such a way that the resultant list remains in ascending order of their nodes' values. After each insertion, list L is enlarged by on node. 
+ 
+Apply your program to the following data. Successively insert the following nodes  
+1)	(b 5)     2) (e 20)     3) (f 1)     4) (g 6) into the initial list L = ((a 2)  (b 5)  (c 10)); 
